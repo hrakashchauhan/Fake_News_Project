@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+pandas
+nltk
+joblib
+swifter
+huggingface-hub
